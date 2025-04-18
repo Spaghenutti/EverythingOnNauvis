@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------
 local terrain = require("map-generation.terrain")
 
-util =
+local util =
 {
   table = {}
 }
